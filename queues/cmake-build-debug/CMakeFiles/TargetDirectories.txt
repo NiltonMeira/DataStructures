@@ -1,0 +1,3 @@
+C:/Users/nilto/Documents/code/study/DataStructures/queues/cmake-build-debug/CMakeFiles/queues.dir
+C:/Users/nilto/Documents/code/study/DataStructures/queues/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilto/Documents/code/study/DataStructures/queues/cmake-build-debug/CMakeFiles/rebuild_cache.dir
