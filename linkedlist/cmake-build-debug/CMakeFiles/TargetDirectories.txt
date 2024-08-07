@@ -1,0 +1,3 @@
+C:/Users/disrct/Desktop/Nilton/DataStructures/linkedlist/cmake-build-debug/CMakeFiles/linkedlist.dir
+C:/Users/disrct/Desktop/Nilton/DataStructures/linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/disrct/Desktop/Nilton/DataStructures/linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
